@@ -1,3 +1,4 @@
+![img alt](https://github.com/ComputerScienceHayk/flutter_button_anim/blob/master/example.gif)
 # button_anim
 
 A new Flutter application.
